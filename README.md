@@ -14,7 +14,7 @@
   ![teamprof](https://user-images.githubusercontent.com/106569591/202137055-31a1cfe3-5ffa-43d7-916d-bbd78b6822fc.png)
 
   ## Usage
-  Clone project and open command line. Run the command "npm start". Answer prompts accordingly and then view your custom html file! Right click and select "open in default browser" to see the results!
+  Clone project and open command line. Run the command "npm start". Answer prompts accordingly and then view your custom html file! Right click and select "open in default browser" to see the results! A demonstration video can be found here: https://www.youtube.com/watch?v=80i11lO_pmo
   ## Install
   Installation can be done by cloning the project. Open up GitBash and run "git clone" followed by the cloning url provided on the GitHub. 
   ## Tests
