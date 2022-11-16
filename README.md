@@ -10,6 +10,7 @@
   * [Credits](#credits)
   ## Description
   A command line app that allows users to answer prompts and create a custom html file with the input.
+  
   ![teamprof](https://user-images.githubusercontent.com/106569591/202137055-31a1cfe3-5ffa-43d7-916d-bbd78b6822fc.png)
 
   ## Usage
